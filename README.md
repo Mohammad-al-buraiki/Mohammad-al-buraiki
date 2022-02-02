@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mohammad-al-buraiki
-- 👀 I’m interested in soccer ⚽
 - 🌱 I’m currently studying in the high school
 - 💞️ I’m looking to learn about computer science more deeply
 - 📫 To reach me, alburaiki.mohammad2003@gmail.com
