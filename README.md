@@ -1,4 +1,4 @@
-- 📫 How to reach me **alburaeki@gmail.com**
+- 📫 Reach me at **alburaeki@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
