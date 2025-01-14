@@ -45,7 +45,7 @@
 
 <h3 align="left">My Portfolio:</h3>
 <p align="left">
-  🌐 Check out my website: [Personal Portfolio](https://mohammad-al-buraiki.github.io/personal-portfolio/)
+  🌐 Check out my website: (https://mohammad-al-buraiki.github.io/personal-portfolio/)
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-al-buraiki&" alt="mohammad-al-buraiki" /></p> -->
