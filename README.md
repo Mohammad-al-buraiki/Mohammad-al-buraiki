@@ -1,51 +1,15 @@
-- 📫 Reach me at **alburaeki@gmail.com**
+<div align="left">
+  <ul style="font-size: 1.2em; list-style-type: disc; padding-left: 20px;">
+    <li>📫 Reach me at <a href="mailto:alburaeki@gmail.com" style="color: #0078D7; text-decoration: none; font-weight: bold;">alburaeki@gmail.com</a></li>
+    <li>🌐 Check out my website at <a href="https://mohammad-al-buraiki.github.io/personal-portfolio/" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">https://mohammad-al-buraiki.github.io/personal-portfolio/</a></li>
+  </ul>
+  <hr style="border: none; height: 1px; background-color: #ddd; margin-top: 20px; width: 30%; margin-left: 0;">
+</div>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <p align="left"> -->
-<!-- <a href="https://www.linkedin.com/in/mohammad-al-buraiki-4a95901b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad al-buraiki" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@g08r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g08r" height="30" width="40" /></a>
-</p> -->
+[![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-</p>
 
-<h3 align="left">My Portfolio:</h3>
-<p align="left">
-  🌐 Check out my website: (https://mohammad-al-buraiki.github.io/personal-portfolio/)
-</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-al-buraiki&" alt="mohammad-al-buraiki" /></p> -->
