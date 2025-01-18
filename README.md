@@ -6,10 +6,9 @@
   <hr style="border: none; height: 1px; background-color: #ddd; margin-top: 20px; width: 30%; margin-left: 0;">
 </div>
 
-[![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/3-stats.svg) ![](https://raw.githubusercontent.com/Mohammad-al-buraiki/Mohammad-al-buraiki/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-al-buraiki&" alt="mohammad-al-buraiki" /></p> -->
