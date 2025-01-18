@@ -1,7 +1,7 @@
 <div align="left">
   <ul style="font-size: 1.2em; list-style-type: disc; padding-left: 20px;">
     <li>📫 Reach me at <a href="mailto:alburaeki@gmail.com" style="color: #0078D7; text-decoration: none; font-weight: bold;">alburaeki@gmail.com</a></li>
-    <li>🌐 Check out my website at <a href="https://bit.ly/alburaiki" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">https://mohammad-al-buraiki.github.io/personal-portfolio/</a></li>
+    <li>🌐 Check out my website at <a href="https://bit.ly/alburaiki" target="_blank" style="color: #0078D7; text-decoration: none; font-weight: bold;">https://bit.ly/alburaiki</a></li>
   </ul>
   <hr style="border: none; height: 1px; background-color: #ddd; margin-top: 20px; width: 30%; margin-left: 0;">
 </div>
